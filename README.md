@@ -200,7 +200,7 @@ I'm particularly interested in industries like finance, healthcare, retail, and 
 
 If you're looking for someone detail-oriented, eager to learn, and ready to take on entry-level analytics responsibilities, I'd love to connect and discuss how I can add value to your team.
 
-📧 **Email:** [Email](seokhyun.sean.yoon@gmail.com)
+📧 **Email:** [Seokhyun.sean.yoon@gmail.com]
 
 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/seokhyun-yoon-241a61104/)
 
