@@ -137,6 +137,12 @@ A subscription service wanted to reduce customer churn and identify at-risk segm
 **Business Impact:**  
 Identified **top three retention priorities** and created data-driven recommendations for reducing churn through contract upgrades and proactive support.  
 
+ **Visuals:**
+
+| Churn KPIs                        | 
+|-----------------------------------|
+| ![Churn KPI](images/ChurnDashboard.png)   | 
+
 💻 [View Project Code](https://github.com/SeanYooon/Data-Analysis-Portfolio-/blob/main/README.md#customer-churn-analysis--prediction-dashboard)
 
 ---
