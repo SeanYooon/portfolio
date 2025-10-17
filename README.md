@@ -9,7 +9,7 @@ My foundation includes **SQL, Python, Excel, Tableau, Power BI**, and statistica
 I'm looking for a team where I can contribute immediately while learning from experienced analysts. **Open to junior, contract, or hybrid roles anywhere in Canada.**
 
 ✍️ [View My Resume (PDF)](https://github.com/SeanYooon/Data-Analysis-Portfolio-/blob/main/Sean%20Resume.pdf)  
-🔗 [Visit My LinkedIn](https://www.linkedin.com/in/seokhyun-sean-yoon/)
+🔗 [Visit My LinkedIn](https://www.linkedin.com/in/seokhyun-yoon-241a61104/)
 
 ---
 
