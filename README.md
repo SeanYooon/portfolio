@@ -160,13 +160,13 @@ Delivered a visualization tool for policy analysts to explore spending patterns 
 
 These projects were completed as part of university coursework and independent study. They demonstrate long-term learning and advanced technical exploration.
 
-- **[Credit Risk Prediction Model](https://github.com/YourUsername/credit-risk-model)** – Banking analytics using XGBoost, SHAP interpretability, and SMOTE sampling (Python)
-- **[Housing Price Prediction](https://github.com/YourUsername/housing-price-prediction)** – Regression modeling with feature engineering and cross-validation (Python, R)
-- **[Time Series Forecasting – Rainfall Prediction](https://github.com/YourUsername/rainfall-forecasting)** – SARIMA and Prophet models for weather forecasting (Python)
-- **[SpaceX Falcon 9 Landing Prediction](https://github.com/YourUsername/spacex-analysis)** – Classification project from IBM Data Science course (Python, Tableau)
-- **[Police Complaints Prediction (Vancouver)](https://github.com/YourUsername/police-complaints)** – Predictive modeling using civic data (R, ggplot2)
-- **[Donor Management CRM – Finding Donors](https://github.com/YourUsername/donor-crm)** – Supervised learning project for CharityML (Python)
-- **[Insurance Cost Analysis](https://github.com/YourUsername/insurance-analysis)** – Statistical analysis of healthcare cost drivers (Excel, Tableau)
+- **[Credit Risk Prediction Model](https://github.com/SeanYooon/Data-Analysis-Portfolio-/blob/main/README.md)** – Banking analytics using XGBoost, SHAP interpretability, and SMOTE sampling (Python)
+- **[Housing Price Prediction](https://github.com/SeanYooon/Data-Analysis-Portfolio-/blob/main/README.md)** – Regression modeling with feature engineering and cross-validation (Python, R)
+- **[Time Series Forecasting – Rainfall Prediction](https://github.com/SeanYooon/Data-Analysis-Portfolio-/blob/main/README.md)** – SARIMA and Prophet models for weather forecasting (Python)
+- **[SpaceX Falcon 9 Landing Prediction](https://github.com/SeanYooon/Data-Analysis-Portfolio-/blob/main/README.md)** – Classification project from IBM Data Science course (Python, Tableau)
+- **[Police Complaints Prediction (Vancouver)](https://github.com/SeanYooon/Data-Analysis-Portfolio-/blob/main/README.md)** – Predictive modeling using civic data (R, ggplot2)
+- **[Donor Management CRM – Finding Donors](https://github.com/SeanYooon/Data-Analysis-Portfolio-/blob/main/README.md)** – Supervised learning project for CharityML (Python)
+- **[Insurance Cost Analysis](https://github.com/SeanYooon/Data-Analysis-Portfolio-/blob/main/README.md)** – Statistical analysis of healthcare cost drivers (Excel, Tableau)
 
 ---
 
