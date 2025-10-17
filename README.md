@@ -47,6 +47,12 @@ An e-commerce company needed to understand why 70% of customers were abandoning 
 **Business Impact:**  
 Quantified **$209K revenue recovery opportunity** and recommended prioritizing loyalty programs over generic discounts based on customer lifetime value analysis.  
 
+**Visuals:**  
+
+| KPI Overview | 
+|--------------|
+| ![KPI Dashboard](images/Cart_Abandonment_dashboard.png) 
+
 📊 [View Interactive Dashboard](https://public.tableau.com/views/CartAbandonment_17561755499880/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
 💻 [View Project Files](https://github.com/SeanYooon/Data-Analysis-Portfolio-/edit/main/README.md#cart-abandonment--executive-dashboard)
 
@@ -75,7 +81,7 @@ Understanding employment and wage trends across Canadian provinces to identify r
 Created actionable insights for job seekers identifying **high-opportunity provinces** with strong employment growth and competitive wages.  
 
 📊 [View Dashboard](https://github.com/YourUsername/canada-labour-analysis)  
-💻 [View Analysis Code](https://github.com/YourUsername/canada-labour-analysis/blob/main/analysis.ipynb)
+💻 [View Analysis Code](https://github.com/SeanYooon/Data-Analysis-Portfolio-/edit/main/README.md)
 
 ---
 
@@ -95,12 +101,18 @@ A digital marketing team needed to evaluate return on ad spend (ROAS) across mul
 **Key Insights:**
 - Email campaigns delivered **highest ROAS at 4.2×** vs. paid social at 2.1×  
 - Google Search ads had the best conversion rate (8.5%) but limited scale  
-- Facebook ads drove volume but lower quality leads (3.2% conversion)  
+- Facebook ads drove volume, but lower quality leads (3.2% conversion)  
 
 **Business Impact:**  
-Recommended shifting 30% of budget from Facebook to email remarketing, projecting **15% improvement in overall ROAS**.  
+Recommended shifting 30% of the budget from Facebook to email remarketing, projecting **15% improvement in overall ROAS**.  
 
-📊 [View Analysis Report](https://github.com/YourUsername/ad-roas-analysis)
+**Visuals:**
+
+| ROAS by Channel                            |  Cost Effectiveness Comparison         |
+|-------------------------------------------------------|--------------------------------------------|
+|![Actual vs Predicted](images/roas_model_analysis.png)    | ![Feature Importance](images/actual_vs_predicted_roas.png) |
+
+📊 [View Analysis Report](https://github.com/SeanYooon/Data-Analysis-Portfolio-/edit/main/README.md#ad-campaign-roas-analysis)
 
 ---
 
@@ -125,7 +137,7 @@ A subscription service wanted to reduce customer churn and identify at-risk segm
 **Business Impact:**  
 Identified **top three retention priorities** and created data-driven recommendations for reducing churn through contract upgrades and proactive support.  
 
-💻 [View Project Code](https://github.com/YourUsername/churn-analysis)
+💻 [View Project Code](https://github.com/SeanYooon/Data-Analysis-Portfolio-/blob/main/README.md#customer-churn-analysis--prediction-dashboard)
 
 ---
 
@@ -151,8 +163,14 @@ Understanding trends in Canadian healthcare expenditure by province and spending
 **Business Impact:**  
 Delivered a visualization tool for policy analysts to explore spending patterns and benchmark provincial performance.  
 
-📊 [View Dashboard](https://public.tableau.com/views/YourHealthDashboard)  
-💻 [View dbt Models](https://github.com/YourUsername/health-spending-analysis)
+**Visuals:**
+
+| Stacked Bar + Dot Line – Spending by Category and Total Trend                              | Line Chart – YoY Growth Rate (Canada vs Quebec vs BC)         |
+|-------------------------------------------------------|--------------------------------------------|
+|![Forecast Plot](images/Dashboard_2.png) | ![Residual ACF](images/Sheet_13.png) |
+
+**Github Repo**
+[1] GitHub -[https://github.com/SeanYooon/Data-Analysis-Portfolio-](https://github.com/SeanYooon/snowflake_dbt)
 
 ---
 
@@ -182,10 +200,8 @@ I'm particularly interested in industries like finance, healthcare, retail, and 
 
 If you're looking for someone detail-oriented, eager to learn, and ready to take on entry-level analytics responsibilities, I'd love to connect and discuss how I can add value to your team.
 
-📧 **Email:** your.email@example.com  
+📧 **Email:** seokhyun.sean.yoon@gmail.com
 💼 **LinkedIn:** [https://www.linkedin.com/in/seokhyun-yoon-241a61104/)  
 🐙 **GitHub:** [https://github.com/SeanYooon/Data-Analysis-Portfolio-/blob/main/README.md)
 
----
 
-*Last Updated: October 2025*
