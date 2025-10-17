@@ -47,8 +47,8 @@ An e-commerce company needed to understand why 70% of customers were abandoning 
 **Business Impact:**  
 Quantified **$209K revenue recovery opportunity** and recommended prioritizing loyalty programs over generic discounts based on customer lifetime value analysis.  
 
-📊 [View Interactive Dashboard](https://public.tableau.com/views/YourDashboardLink)  
-💻 [View Project Files](https://github.com/YourUsername/cart-abandonment-analysis)
+📊 [View Interactive Dashboard](https://public.tableau.com/views/CartAbandonment_17561755499880/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
+💻 [View Project Files](https://github.com/SeanYooon/Data-Analysis-Portfolio-/edit/main/README.md#cart-abandonment--executive-dashboard)
 
 ---
 
